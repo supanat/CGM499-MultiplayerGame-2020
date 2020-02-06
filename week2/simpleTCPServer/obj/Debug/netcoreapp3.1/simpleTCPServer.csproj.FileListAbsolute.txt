@@ -1,0 +1,11 @@
+D:\CGM499_Online\week2\simpleTCPServer\bin\Debug\netcoreapp3.1\simpleTCPServer.exe
+D:\CGM499_Online\week2\simpleTCPServer\bin\Debug\netcoreapp3.1\simpleTCPServer.deps.json
+D:\CGM499_Online\week2\simpleTCPServer\bin\Debug\netcoreapp3.1\simpleTCPServer.runtimeconfig.json
+D:\CGM499_Online\week2\simpleTCPServer\bin\Debug\netcoreapp3.1\simpleTCPServer.runtimeconfig.dev.json
+D:\CGM499_Online\week2\simpleTCPServer\bin\Debug\netcoreapp3.1\simpleTCPServer.dll
+D:\CGM499_Online\week2\simpleTCPServer\bin\Debug\netcoreapp3.1\simpleTCPServer.pdb
+D:\CGM499_Online\week2\simpleTCPServer\obj\Debug\netcoreapp3.1\simpleTCPServer.csprojAssemblyReference.cache
+D:\CGM499_Online\week2\simpleTCPServer\obj\Debug\netcoreapp3.1\simpleTCPServer.AssemblyInfoInputs.cache
+D:\CGM499_Online\week2\simpleTCPServer\obj\Debug\netcoreapp3.1\simpleTCPServer.AssemblyInfo.cs
+D:\CGM499_Online\week2\simpleTCPServer\obj\Debug\netcoreapp3.1\simpleTCPServer.dll
+D:\CGM499_Online\week2\simpleTCPServer\obj\Debug\netcoreapp3.1\simpleTCPServer.pdb
